@@ -1,0 +1,13 @@
+th{
+    border: solid 3px black;
+}
+td{
+    border: solid 1px black;
+}
+body{
+    text-align: center;
+}
+img{
+    padding-bottom: 5%;
+    padding-top: 1%;
+}
